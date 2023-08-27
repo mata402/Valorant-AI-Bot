@@ -1,7 +1,7 @@
 # Valorant-AI-Bot
 A bot that can play Valorant on its own. This is a showcase, code will not be made public to prevent cheating.
 
-![gif](https://github.com/mata402/Valorant-AI/images/bot.gif)
+![gif](./bot.gif)
 
 - Fully computer vision based thanks to [OpenCV](https://github.com/opencv/opencv-python)
 - Real-time object detection with [Ultralytics YOLOv5](https://github.com/ultralytics/yolov5) architecture implemented in PyTorch, accelerated with NVIDIA's CUDA
